@@ -1,0 +1,1048 @@
+10-01 16:38 mainLogger   INFO     Reading the config...
+10-01 16:38 mainLogger   INFO     Config read
+10-01 16:38 mainLogger   INFO     Initialising face_model
+10-01 16:38 mainLogger   INFO     face_model initialisation completed
+10-01 16:38 mainLogger   INFO     Initialising camera
+10-01 16:38 mainLogger   INFO     Camera initialised
+10-01 16:38 mainLogger   INFO     Initializing detector
+10-01 16:38 mainLogger   INFO     detector initialized
+10-01 16:38 mainLogger   INFO     Initialising embeddings models...
+10-01 16:38 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:38 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:38 mainLogger   ERROR    Face list resizing error
+10-01 16:38 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:38 mainLogger   INFO     Reading the config...
+10-01 16:38 mainLogger   INFO     Config read
+10-01 16:38 mainLogger   INFO     Initialising face_model
+10-01 16:38 mainLogger   INFO     face_model initialisation completed
+10-01 16:38 mainLogger   INFO     Initialising camera
+10-01 16:38 mainLogger   INFO     Camera initialised
+10-01 16:38 mainLogger   INFO     Initializing detector
+10-01 16:38 mainLogger   INFO     detector initialized
+10-01 16:38 mainLogger   INFO     Initialising embeddings models...
+10-01 16:38 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:38 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:38 mainLogger   ERROR    Face list resizing error
+10-01 16:38 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:39 mainLogger   INFO     Reading the config...
+10-01 16:39 mainLogger   INFO     Config read
+10-01 16:39 mainLogger   INFO     Initialising face_model
+10-01 16:39 mainLogger   INFO     face_model initialisation completed
+10-01 16:39 mainLogger   INFO     Initialising camera
+10-01 16:39 mainLogger   INFO     Camera initialised
+10-01 16:39 mainLogger   INFO     Initializing detector
+10-01 16:39 mainLogger   INFO     detector initialized
+10-01 16:39 mainLogger   INFO     Initialising embeddings models...
+10-01 16:39 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:39 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:39 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:40 mainLogger   INFO     Reading the config...
+10-01 16:40 mainLogger   INFO     Config read
+10-01 16:40 mainLogger   INFO     Initialising face_model
+10-01 16:40 mainLogger   INFO     face_model initialisation completed
+10-01 16:40 mainLogger   INFO     Initialising camera
+10-01 16:40 mainLogger   INFO     Camera initialised
+10-01 16:40 mainLogger   INFO     Initializing detector
+10-01 16:40 mainLogger   INFO     detector initialized
+10-01 16:40 mainLogger   INFO     Initialising embeddings models...
+10-01 16:40 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:40 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 16:40 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:40 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:42 mainLogger   INFO     Reading the config...
+10-01 16:42 mainLogger   INFO     Config read
+10-01 16:42 mainLogger   INFO     Initialising face_model
+10-01 16:42 mainLogger   INFO     face_model initialisation completed
+10-01 16:42 mainLogger   INFO     Initialising camera
+10-01 16:42 mainLogger   INFO     Camera initialised
+10-01 16:42 mainLogger   INFO     Initializing detector
+10-01 16:42 mainLogger   INFO     detector initialized
+10-01 16:42 mainLogger   INFO     Initialising embeddings models...
+10-01 16:42 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:42 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:42 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:44 mainLogger   INFO     Reading the config...
+10-01 16:44 mainLogger   INFO     Config read
+10-01 16:44 mainLogger   INFO     Initialising face_model
+10-01 16:44 mainLogger   INFO     face_model initialisation completed
+10-01 16:44 mainLogger   INFO     Initialising camera
+10-01 16:44 mainLogger   INFO     Camera initialised
+10-01 16:44 mainLogger   INFO     Initializing detector
+10-01 16:44 mainLogger   INFO     detector initialized
+10-01 16:44 mainLogger   INFO     Initialising embeddings models...
+10-01 16:44 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:44 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:44 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:45 mainLogger   INFO     Reading the config...
+10-01 16:45 mainLogger   INFO     Config read
+10-01 16:45 mainLogger   INFO     Initialising face_model
+10-01 16:45 mainLogger   INFO     face_model initialisation completed
+10-01 16:45 mainLogger   INFO     Initialising camera
+10-01 16:45 mainLogger   INFO     Camera initialised
+10-01 16:45 mainLogger   INFO     Initializing detector
+10-01 16:45 mainLogger   INFO     detector initialized
+10-01 16:45 mainLogger   INFO     Initialising embeddings models...
+10-01 16:45 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:45 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:46 mainLogger   INFO     Reading the config...
+10-01 16:46 mainLogger   INFO     Config read
+10-01 16:46 mainLogger   INFO     Initialising face_model
+10-01 16:46 mainLogger   INFO     face_model initialisation completed
+10-01 16:46 mainLogger   INFO     Initialising camera
+10-01 16:46 mainLogger   INFO     Camera initialised
+10-01 16:46 mainLogger   INFO     Initializing detector
+10-01 16:46 mainLogger   INFO     detector initialized
+10-01 16:46 mainLogger   INFO     Initialising embeddings models...
+10-01 16:46 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:46 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:46 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:49 mainLogger   INFO     Reading the config...
+10-01 16:49 mainLogger   INFO     Config read
+10-01 16:49 mainLogger   INFO     Initialising face_model
+10-01 16:49 mainLogger   INFO     face_model initialisation completed
+10-01 16:49 mainLogger   INFO     Initialising camera
+10-01 16:49 mainLogger   INFO     Camera initialised
+10-01 16:49 mainLogger   INFO     Initializing detector
+10-01 16:49 mainLogger   INFO     detector initialized
+10-01 16:49 mainLogger   INFO     Initialising embeddings models...
+10-01 16:49 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:49 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:49 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:51 mainLogger   INFO     Reading the config...
+10-01 16:51 mainLogger   INFO     Config read
+10-01 16:51 mainLogger   INFO     Initialising face_model
+10-01 16:51 mainLogger   INFO     face_model initialisation completed
+10-01 16:51 mainLogger   INFO     Initialising camera
+10-01 16:51 mainLogger   INFO     Camera initialised
+10-01 16:51 mainLogger   INFO     Initializing detector
+10-01 16:51 mainLogger   INFO     detector initialized
+10-01 16:51 mainLogger   INFO     Initialising embeddings models...
+10-01 16:51 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:51 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:51 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:54 mainLogger   INFO     Reading the config...
+10-01 16:54 mainLogger   INFO     Config read
+10-01 16:54 mainLogger   INFO     Initialising face_model
+10-01 16:54 mainLogger   INFO     face_model initialisation completed
+10-01 16:54 mainLogger   INFO     Initialising camera
+10-01 16:54 mainLogger   INFO     Camera initialised
+10-01 16:54 mainLogger   INFO     Initializing detector
+10-01 16:54 mainLogger   INFO     detector initialized
+10-01 16:54 mainLogger   INFO     Initialising embeddings models...
+10-01 16:54 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:54 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 16:54 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:56 mainLogger   INFO     Reading the config...
+10-01 16:56 mainLogger   INFO     Config read
+10-01 16:56 mainLogger   INFO     Initialising face_model
+10-01 16:56 mainLogger   INFO     face_model initialisation completed
+10-01 16:56 mainLogger   INFO     Initialising camera
+10-01 16:56 mainLogger   INFO     Camera initialised
+10-01 16:56 mainLogger   INFO     Initializing detector
+10-01 16:56 mainLogger   INFO     detector initialized
+10-01 16:56 mainLogger   INFO     Initialising embeddings models...
+10-01 16:56 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:56 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:56 mainLogger   ERROR    Model or face crop failure
+10-01 16:56 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:56 mainLogger   INFO     Reading the config...
+10-01 16:56 mainLogger   INFO     Config read
+10-01 16:56 mainLogger   INFO     Initialising face_model
+10-01 16:56 mainLogger   INFO     face_model initialisation completed
+10-01 16:56 mainLogger   INFO     Initialising camera
+10-01 16:56 mainLogger   INFO     Camera initialised
+10-01 16:56 mainLogger   INFO     Initializing detector
+10-01 16:56 mainLogger   INFO     detector initialized
+10-01 16:56 mainLogger   INFO     Initialising embeddings models...
+10-01 16:56 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:56 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:56 mainLogger   ERROR    Model or face crop failure
+10-01 16:56 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 16:58 mainLogger   INFO     Reading the config...
+10-01 16:58 mainLogger   INFO     Config read
+10-01 16:58 mainLogger   INFO     Initialising face_model
+10-01 16:58 mainLogger   INFO     face_model initialisation completed
+10-01 16:58 mainLogger   INFO     Initialising camera
+10-01 16:58 mainLogger   INFO     Camera initialised
+10-01 16:58 mainLogger   INFO     Initializing detector
+10-01 16:58 mainLogger   INFO     detector initialized
+10-01 16:58 mainLogger   INFO     Initialising embeddings models...
+10-01 16:58 mainLogger   INFO     embeddings Models initialisation completed
+10-01 16:58 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 16:58 mainLogger   ERROR    Face list resizing error
+10-01 16:58 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 17:03 mainLogger   INFO     Reading the config...
+10-01 17:03 mainLogger   INFO     Config read
+10-01 17:03 mainLogger   INFO     Initialising face_model
+10-01 17:03 mainLogger   INFO     face_model initialisation completed
+10-01 17:03 mainLogger   INFO     Initialising camera
+10-01 17:03 mainLogger   INFO     Camera initialised
+10-01 17:03 mainLogger   INFO     Initializing detector
+10-01 17:03 mainLogger   INFO     detector initialized
+10-01 17:03 mainLogger   INFO     Initialising embeddings models...
+10-01 17:03 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:03 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:03 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   INFO     Reading the config...
+10-01 17:04 mainLogger   INFO     Config read
+10-01 17:04 mainLogger   INFO     Initialising face_model
+10-01 17:04 mainLogger   INFO     face_model initialisation completed
+10-01 17:04 mainLogger   INFO     Initialising camera
+10-01 17:04 mainLogger   INFO     Camera initialised
+10-01 17:04 mainLogger   INFO     Initializing detector
+10-01 17:04 mainLogger   INFO     detector initialized
+10-01 17:04 mainLogger   INFO     Initialising embeddings models...
+10-01 17:04 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   INFO     Reading the config...
+10-01 17:04 mainLogger   INFO     Config read
+10-01 17:04 mainLogger   INFO     Initialising face_model
+10-01 17:04 mainLogger   INFO     face_model initialisation completed
+10-01 17:04 mainLogger   INFO     Initialising camera
+10-01 17:04 mainLogger   INFO     Camera initialised
+10-01 17:04 mainLogger   INFO     Initializing detector
+10-01 17:04 mainLogger   INFO     detector initialized
+10-01 17:04 mainLogger   INFO     Initialising embeddings models...
+10-01 17:04 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:04 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:04 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   INFO     Reading the config...
+10-01 17:05 mainLogger   INFO     Config read
+10-01 17:05 mainLogger   INFO     Initialising face_model
+10-01 17:05 mainLogger   INFO     face_model initialisation completed
+10-01 17:05 mainLogger   INFO     Initialising camera
+10-01 17:05 mainLogger   INFO     Camera initialised
+10-01 17:05 mainLogger   INFO     Initializing detector
+10-01 17:05 mainLogger   INFO     detector initialized
+10-01 17:05 mainLogger   INFO     Initialising embeddings models...
+10-01 17:05 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   INFO     Reading the config...
+10-01 17:05 mainLogger   INFO     Config read
+10-01 17:05 mainLogger   INFO     Initialising face_model
+10-01 17:05 mainLogger   INFO     face_model initialisation completed
+10-01 17:05 mainLogger   INFO     Initialising camera
+10-01 17:05 mainLogger   INFO     Camera initialised
+10-01 17:05 mainLogger   INFO     Initializing detector
+10-01 17:05 mainLogger   INFO     detector initialized
+10-01 17:05 mainLogger   INFO     Initialising embeddings models...
+10-01 17:05 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:05 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:05 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 17:06 mainLogger   INFO     Reading the config...
+10-01 17:06 mainLogger   INFO     Config read
+10-01 17:06 mainLogger   INFO     Initialising face_model
+10-01 17:06 mainLogger   INFO     face_model initialisation completed
+10-01 17:06 mainLogger   INFO     Initialising camera
+10-01 17:06 mainLogger   INFO     Camera initialised
+10-01 17:06 mainLogger   INFO     Initializing detector
+10-01 17:06 mainLogger   INFO     detector initialized
+10-01 17:06 mainLogger   INFO     Initialising embeddings models...
+10-01 17:06 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:06 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:06 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 17:07 mainLogger   INFO     Reading the config...
+10-01 17:07 mainLogger   INFO     Config read
+10-01 17:07 mainLogger   INFO     Initialising face_model
+10-01 17:07 mainLogger   INFO     face_model initialisation completed
+10-01 17:07 mainLogger   INFO     Initialising camera
+10-01 17:07 mainLogger   INFO     Camera initialised
+10-01 17:07 mainLogger   INFO     Initializing detector
+10-01 17:07 mainLogger   INFO     detector initialized
+10-01 17:07 mainLogger   INFO     Initialising embeddings models...
+10-01 17:07 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:07 mainLogger   ERROR    Cannot read video file face_video_3.avi
+10-01 17:07 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:08 mainLogger   INFO     Reading the config...
+10-01 17:08 mainLogger   INFO     Config read
+10-01 17:08 mainLogger   INFO     Initialising face_model
+10-01 17:08 mainLogger   INFO     face_model initialisation completed
+10-01 17:08 mainLogger   INFO     Initialising camera
+10-01 17:08 mainLogger   INFO     Camera initialised
+10-01 17:08 mainLogger   INFO     Initializing detector
+10-01 17:08 mainLogger   INFO     detector initialized
+10-01 17:08 mainLogger   INFO     Initialising embeddings models...
+10-01 17:08 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:08 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:08 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   INFO     Reading the config...
+10-01 17:14 mainLogger   INFO     Config read
+10-01 17:14 mainLogger   INFO     Initialising face_model
+10-01 17:14 mainLogger   INFO     face_model initialisation completed
+10-01 17:14 mainLogger   INFO     Initialising camera
+10-01 17:14 mainLogger   INFO     Camera initialised
+10-01 17:14 mainLogger   INFO     Initializing detector
+10-01 17:14 mainLogger   INFO     detector initialized
+10-01 17:14 mainLogger   INFO     Initialising embeddings models...
+10-01 17:14 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:14 mainLogger   ERROR    Cannot read video file face_video_2.avi
+10-01 17:14 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:25 mainLogger   INFO     Reading the config...
+10-01 17:25 mainLogger   INFO     Config read
+10-01 17:25 mainLogger   INFO     Initialising face_model
+10-01 17:25 mainLogger   INFO     face_model initialisation completed
+10-01 17:25 mainLogger   INFO     Initialising camera
+10-01 17:25 mainLogger   INFO     Camera initialised
+10-01 17:25 mainLogger   INFO     Initializing detector
+10-01 17:25 mainLogger   INFO     detector initialized
+10-01 17:25 mainLogger   INFO     Initialising embeddings models...
+10-01 17:25 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:25 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:25 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:25 mainLogger   ERROR    Face list resizing error
+10-01 17:25 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 17:34 mainLogger   INFO     Reading the config...
+10-01 17:34 mainLogger   INFO     Config read
+10-01 17:34 mainLogger   INFO     Initialising face_model
+10-01 17:34 mainLogger   INFO     face_model initialisation completed
+10-01 17:34 mainLogger   INFO     Initialising camera
+10-01 17:34 mainLogger   INFO     Camera initialised
+10-01 17:34 mainLogger   INFO     Initializing detector
+10-01 17:34 mainLogger   INFO     detector initialized
+10-01 17:34 mainLogger   INFO     Initialising embeddings models...
+10-01 17:34 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:34 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:35 mainLogger   ERROR    Face list resizing error
+10-01 17:35 mainLogger   ERROR    Error: Video_processing starting fail
+10-01 17:36 mainLogger   INFO     Reading the config...
+10-01 17:36 mainLogger   INFO     Config read
+10-01 17:36 mainLogger   INFO     Initialising face_model
+10-01 17:36 mainLogger   INFO     face_model initialisation completed
+10-01 17:36 mainLogger   INFO     Initialising camera
+10-01 17:36 mainLogger   INFO     Camera initialised
+10-01 17:36 mainLogger   INFO     Initializing detector
+10-01 17:36 mainLogger   INFO     detector initialized
+10-01 17:36 mainLogger   INFO     Initialising embeddings models...
+10-01 17:36 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:36 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:37 mainLogger   INFO     Reading the config...
+10-01 17:37 mainLogger   INFO     Config read
+10-01 17:37 mainLogger   INFO     Initialising face_model
+10-01 17:37 mainLogger   INFO     face_model initialisation completed
+10-01 17:37 mainLogger   INFO     Initialising camera
+10-01 17:37 mainLogger   INFO     Camera initialised
+10-01 17:37 mainLogger   INFO     Initializing detector
+10-01 17:37 mainLogger   INFO     detector initialized
+10-01 17:37 mainLogger   INFO     Initialising embeddings models...
+10-01 17:37 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:37 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:38 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:45 mainLogger   INFO     Reading the config...
+10-01 17:45 mainLogger   INFO     Config read
+10-01 17:45 mainLogger   INFO     Initialising face_model
+10-01 17:45 mainLogger   INFO     face_model initialisation completed
+10-01 17:45 mainLogger   INFO     Initialising camera
+10-01 17:45 mainLogger   INFO     Camera initialised
+10-01 17:45 mainLogger   INFO     Initializing detector
+10-01 17:45 mainLogger   INFO     detector initialized
+10-01 17:45 mainLogger   INFO     Initialising embeddings models...
+10-01 17:45 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:45 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:46 mainLogger   INFO     Reading the config...
+10-01 17:46 mainLogger   INFO     Config read
+10-01 17:46 mainLogger   INFO     Initialising face_model
+10-01 17:46 mainLogger   INFO     face_model initialisation completed
+10-01 17:46 mainLogger   INFO     Initialising camera
+10-01 17:46 mainLogger   INFO     Camera initialised
+10-01 17:46 mainLogger   INFO     Initializing detector
+10-01 17:46 mainLogger   INFO     detector initialized
+10-01 17:46 mainLogger   INFO     Initialising embeddings models...
+10-01 17:46 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:46 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:47 mainLogger   INFO     Reading the config...
+10-01 17:47 mainLogger   INFO     Config read
+10-01 17:47 mainLogger   INFO     Initialising face_model
+10-01 17:47 mainLogger   INFO     face_model initialisation completed
+10-01 17:47 mainLogger   INFO     Initialising camera
+10-01 17:47 mainLogger   INFO     Camera initialised
+10-01 17:47 mainLogger   INFO     Initializing detector
+10-01 17:47 mainLogger   INFO     detector initialized
+10-01 17:47 mainLogger   INFO     Initialising embeddings models...
+10-01 17:47 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:47 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:49 mainLogger   INFO     Reading the config...
+10-01 17:49 mainLogger   INFO     Config read
+10-01 17:49 mainLogger   INFO     Initialising face_model
+10-01 17:49 mainLogger   INFO     face_model initialisation completed
+10-01 17:49 mainLogger   INFO     Initialising camera
+10-01 17:49 mainLogger   INFO     Camera initialised
+10-01 17:49 mainLogger   INFO     Initializing detector
+10-01 17:49 mainLogger   INFO     detector initialized
+10-01 17:49 mainLogger   INFO     Initialising embeddings models...
+10-01 17:49 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:49 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_3.avi
+10-01 17:50 mainLogger   INFO     Reading the config...
+10-01 17:50 mainLogger   INFO     Config read
+10-01 17:50 mainLogger   INFO     Initialising face_model
+10-01 17:50 mainLogger   INFO     face_model initialisation completed
+10-01 17:50 mainLogger   INFO     Initialising camera
+10-01 17:50 mainLogger   INFO     Camera initialised
+10-01 17:50 mainLogger   INFO     Initializing detector
+10-01 17:50 mainLogger   INFO     detector initialized
+10-01 17:50 mainLogger   INFO     Initialising embeddings models...
+10-01 17:50 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:50 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:51 mainLogger   INFO     Reading the config...
+10-01 17:51 mainLogger   INFO     Config read
+10-01 17:51 mainLogger   INFO     Initialising face_model
+10-01 17:51 mainLogger   INFO     face_model initialisation completed
+10-01 17:51 mainLogger   INFO     Initialising camera
+10-01 17:51 mainLogger   INFO     Camera initialised
+10-01 17:51 mainLogger   INFO     Initializing detector
+10-01 17:51 mainLogger   INFO     detector initialized
+10-01 17:51 mainLogger   INFO     Initialising embeddings models...
+10-01 17:51 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:51 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-01 17:52 mainLogger   INFO     Reading the config...
+10-01 17:52 mainLogger   INFO     Config read
+10-01 17:52 mainLogger   INFO     Initialising face_model
+10-01 17:52 mainLogger   INFO     face_model initialisation completed
+10-01 17:52 mainLogger   INFO     Initialising camera
+10-01 17:52 mainLogger   INFO     Camera initialised
+10-01 17:52 mainLogger   INFO     Initializing detector
+10-01 17:52 mainLogger   INFO     detector initialized
+10-01 17:52 mainLogger   INFO     Initialising embeddings models...
+10-01 17:52 mainLogger   INFO     embeddings Models initialisation completed
+10-01 17:52 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 11:09 mainLogger   INFO     Reading the config...
+10-02 11:09 mainLogger   INFO     Config read
+10-02 11:09 mainLogger   INFO     Initialising face_model
+10-02 11:09 mainLogger   INFO     face_model initialisation completed
+10-02 11:09 mainLogger   INFO     Initialising camera
+10-02 11:09 mainLogger   INFO     Camera initialised
+10-02 11:09 mainLogger   INFO     Initializing detector
+10-02 11:09 mainLogger   INFO     detector initialized
+10-02 11:09 mainLogger   INFO     Initialising embeddings models...
+10-02 11:09 mainLogger   INFO     embeddings Models initialisation completed
+10-02 11:09 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 11:09 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 11:09 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 11:09 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 13:55 mainLogger   INFO     Reading the config...
+10-02 13:55 mainLogger   INFO     Config read
+10-02 13:55 mainLogger   INFO     Initialising face_model
+10-02 13:55 mainLogger   INFO     face_model initialisation completed
+10-02 13:55 mainLogger   INFO     Initialising camera
+10-02 13:55 mainLogger   INFO     Camera initialised
+10-02 13:55 mainLogger   INFO     Initializing detector
+10-02 13:55 mainLogger   INFO     detector initialized
+10-02 13:55 mainLogger   INFO     Initialising embeddings models...
+10-02 13:55 mainLogger   INFO     embeddings Models initialisation completed
+10-02 13:55 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 13:55 mainLogger   INFO     Reading the config...
+10-02 13:55 mainLogger   INFO     Config read
+10-02 13:55 mainLogger   INFO     Initialising face_model
+10-02 13:55 mainLogger   INFO     face_model initialisation completed
+10-02 13:55 mainLogger   INFO     Initialising camera
+10-02 13:55 mainLogger   INFO     Camera initialised
+10-02 13:55 mainLogger   INFO     Initializing detector
+10-02 13:55 mainLogger   INFO     detector initialized
+10-02 13:55 mainLogger   INFO     Initialising embeddings models...
+10-02 13:55 mainLogger   INFO     embeddings Models initialisation completed
+10-02 13:55 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 13:56 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
+10-02 13:56 mainLogger   DEBUG    reading C:\Users\Andreas_pc\Desktop\frontier_test\face_video_2.avi
